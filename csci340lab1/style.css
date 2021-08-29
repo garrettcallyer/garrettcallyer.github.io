@@ -27,6 +27,9 @@ ul {
 
 img {
   width:400px; length: 400px; height: 400px;
+}
+
+.images {
   display: flex;
   flex-wrap: wrap;
   margin: 30px;
