@@ -31,13 +31,14 @@ img {
 }
 
 .image1 {
-  padding-left: 250px;
+  padding-left: 200px;
 }
 
 .image2 {
-  padding-left: 500px;
+  padding-left: 750px;
 }
 
 .image3 {
-  padding-left: 750px;
+  padding-left: 1300px;
+  padding-bottom: 500px;
 }
