@@ -25,6 +25,10 @@ ul {
   margin: 0 auto;
 }
 
+h3 {
+  color: black;
+}
+
 img {
   width:400px; length: 400px; height: 400px;
   margin: 40px;
