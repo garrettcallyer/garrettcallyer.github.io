@@ -5,19 +5,11 @@ h1{
   background-image: "Wood-Background.jpg"
 }
 
-#list{
-
-}
-
 body {
   font-family: Copperplate, Papyrus, fantasy;
 }
 
-h3{
+#list {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: red;
-}
-
-.main{
-  background-color: inherit: red;
 }
