@@ -11,5 +11,9 @@ h2{
 
 .list {
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: red;
+  color: grey;
+}
+
+.images {
+  width: 30px; length: 30px; height: 30px;
 }
