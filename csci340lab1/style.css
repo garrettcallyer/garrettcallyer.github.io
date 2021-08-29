@@ -27,7 +27,7 @@ ul {
 
 img {
   width:400px; length: 400px; height: 400px;
-  display: inline;
+  display: flex;
 }
 
 .image1 {
