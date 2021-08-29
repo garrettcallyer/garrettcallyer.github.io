@@ -28,16 +28,17 @@ ul {
 img {
   width:400px; length: 400px; height: 400px;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .image1 {
-  padding-left: 175px;
+
 }
 
 .image2 {
-  padding-left: 725px;
+
 }
 
 .image3 {
-  padding-left: 1275px;
+
 }
