@@ -20,7 +20,6 @@ ul {
   color: white;
   font-size: 25px;
   padding-left: 0;
-  display: inline-block;
   text-align: center;
   list-style-position: inside;
   margin: 0 auto;
@@ -32,13 +31,13 @@ img {
 }
 
 .image1 {
-  align
+  padding-left: 100px;
 }
 
 .image2 {
-  image-orientation: right;
+  padding-left: 100px;
 }
 
 .image3 {
-  image-orientation: left;
+  padding-left: 100px;
 }
