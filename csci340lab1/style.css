@@ -1,13 +1,10 @@
-.page-title {
-  text-align: center;
-  font-weight: 200
-}
-
 h1{
   font-family: 'Staatliches', cursive;
   font-size: 40px;
   color: blue;
   background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fopengameart.org%2Fcontent%2Fpublic-domain-backgrounds&psig=AOvVaw1SM9QoGaJ04cyxZz1cPn-Z&ust=1630290007033000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiY1duV1fICFQAAAAAdAAAAABAD");
+  text-align: center;
+  font-weight: 200
 }
 
 h2{
