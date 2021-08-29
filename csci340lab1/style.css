@@ -30,6 +30,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   margin: 30px;
+  justify-content: space-around;
 }
 
 .image1 {
