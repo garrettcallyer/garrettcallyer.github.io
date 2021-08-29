@@ -15,11 +15,12 @@ body {
   background-image: url('https://images.pexels.com/photos/139306/pexels-photo-139306.jpeg?cs=srgb&dl=pexels-fwstudio-139306.jpg&fm=jpg');
 }
 
-.list {
+ul {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: white;
   font-size: 25px;
-  align-items: center;
+  text-align: center;
+  margin: 0 auto;
 }
 
 img {
@@ -28,7 +29,7 @@ img {
 }
 
 .image1 {
-  align-content: center;
+  align
 }
 
 .image2 {
