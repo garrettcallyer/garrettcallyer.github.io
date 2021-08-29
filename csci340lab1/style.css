@@ -19,6 +19,7 @@ ul {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: white;
   font-size: 25px;
+  padding-left: 0;
   text-align: center;
   list-style-position: inside;
   margin: 0 auto;
