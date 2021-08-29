@@ -5,6 +5,10 @@ h1{
   background-image: "Wood-Background.jpg"
 }
 
+h2{
+  font-family: 'Permanent Marker', cursive;
+}
+
 #list {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: red;
