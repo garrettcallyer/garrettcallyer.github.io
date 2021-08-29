@@ -17,3 +17,15 @@ h2{
 .images {
   width: 30px; length: 30px; height: 30px;
 }
+
+.image1 {
+  image-orientation: center;
+}
+
+.image2 {
+  image-orientation: right;
+}
+
+.image3 {
+  image-orientation: left;
+}
