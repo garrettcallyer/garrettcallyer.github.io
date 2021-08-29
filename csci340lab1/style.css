@@ -2,7 +2,7 @@ h1{
   font-family: 'Staatliches', cursive;
   font-size: 40px;
   color: blue;
-  background-image: "Wood-Background.jpg"
+  background-image: url("https://www.istockphoto.com/photo/brown-wood-texture-dark-wooden-abstract-background-gm1137996207-303653020");
 }
 
 h2{
@@ -15,11 +15,11 @@ h2{
 }
 
 img {
-  width:30px; length: 30px; height: 30px;
+  width:100px; length: 100px; height: 100px;
 }
 
 .image1 {
-  image-orientation: center;
+  image-orientation:
 }
 
 .image2 {
