@@ -27,10 +27,10 @@ ul {
 
 img {
   width:400px; length: 400px; height: 400px;
+  margin: 40px;
 }
 
 .images {
-  margin: 20px
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
