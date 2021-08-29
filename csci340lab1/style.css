@@ -25,11 +25,8 @@ ul {
   margin: 0 auto;
 }
 
-img {
-  width:400px; length: 400px; height: 400px;
-}
-
 .images {
+  width:400px; length: 400px; height: 400px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
