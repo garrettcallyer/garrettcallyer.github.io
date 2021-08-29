@@ -41,14 +41,6 @@ img {
   justify-content: center;
 }
 
-.image1 {
-  position: relative;
-}
-
 .image2 {
-  position: relative;
-}
-
-.image3 {
-  position: relative;
+  margin-top: 250px;
 }
