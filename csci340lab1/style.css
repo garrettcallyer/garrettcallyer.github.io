@@ -27,18 +27,17 @@ ul {
 
 img {
   width:400px; length: 400px; height: 400px;
-  image-orientation: center;
+  display: inline;
 }
 
 .image1 {
-  padding-left: 200px;
+  padding-left: 175px;
 }
 
 .image2 {
-  padding-left: 750px;
+  padding-left: 725px;
 }
 
 .image3 {
-  padding-left: 1300px;
-  padding-top: 200px;
+  padding-left: 1275px;
 }
