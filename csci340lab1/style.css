@@ -18,10 +18,12 @@ body {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: white;
   text-align: center;
+  font-size: 40px;
 }
 
 img {
-  width:100px; length: 100px; height: 100px;
+  width:400px; length: 400px; height: 400px;
+  image-orientation: center;
 }
 
 .image1 {
