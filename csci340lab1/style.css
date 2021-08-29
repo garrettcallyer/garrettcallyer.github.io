@@ -1,6 +1,6 @@
 h1{
   font-family: 'Staatliches', cursive;
-  font-size: 40px;
+  font-size: 80px;
   color: blue;
   text-align: center;
 }
@@ -8,6 +8,7 @@ h1{
 h2{
   font-family: 'Permanent Marker', cursive;
   text-align: center;
+  font-size: 60px;
 }
 
 body {
@@ -17,8 +18,8 @@ body {
 .list {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: white;
-  text-align: center;
-  font-size: 40px;
+  font-size: 25px;
+  align-items: center;
 }
 
 img {
