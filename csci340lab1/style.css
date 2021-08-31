@@ -16,13 +16,6 @@ h3 {
   text-align: center;
 }
 
-h4{
-  font-size: 15px;
-  color: blue;
-  padding-top: 20px;
-  text-align: center;
-}
-
 body {
   background-image: url("Wood-photo.jpeg");
   padding: 40px;
@@ -41,11 +34,6 @@ ul {
 img {
   width:400px; length: 400px; height: 400px;
   padding: 40px;
-  object-fit: fill;
-}
-
-#col-sm-4 {
-  padding: 40px;
 }
 
 .container {
@@ -56,4 +44,28 @@ img {
   background-image: url("IceBreaking.jpeg");
   max-width: 100%;
   max-height: 100%;
+}
+
+.btn {
+  padding-left: 60px;
+}
+
+.btn a {
+  cursor: pointer;
+  padding: 8px 18px;
+  border: 3px solid black;
+  position: relative;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 30px;
+  color: blue;
+  background-color: white;
+}
+
+.btn a:active {
+  top: 2px;
+}
+
+footer {
+  text-align: right;
+  color: white;
 }
