@@ -1,19 +1,31 @@
-h1{
+.jumbotron h1 {
   font-family: 'Staatliches', cursive;
   font-size: 80px;
-  color: blue;
   text-align: center;
+  color: orange;
 }
 
 h2{
   font-family: 'Permanent Marker', cursive;
   text-align: center;
-  font-size: 40px;
-  padding-top: 25px;
+}
+
+h3 {
+  padding-top: 30px;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+}
+
+h4{
+  font-size: 15px;
+  color: blue;
+  padding-top: 20px;
+  text-align: center;
 }
 
 body {
-  background-image: url('https://images.pexels.com/photos/139306/pexels-photo-139306.jpeg?cs=srgb&dl=pexels-fwstudio-139306.jpg&fm=jpg');
+  background-image: url("Wood-photo.jpeg");
+  padding: 40px;
 }
 
 ul {
@@ -26,24 +38,22 @@ ul {
   margin: 0 auto;
 }
 
-h3 {
-  color: blue;
-  padding-top: 20px;
-  text-align: center;
-  display: inline;
-}
-
 img {
   width:400px; length: 400px; height: 400px;
-  margin: 40px;
+  padding: 40px;
+  object-fit: fill;
 }
 
-.images {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+#col-sm-4 {
+  padding: 40px;
 }
 
-.image2 {
-  margin-top: 250px;
+.container {
+  padding: 20px;
+}
+
+.jumbotron {
+  background-image: url("IceBreaking.jpeg");
+  max-width: 100%;
+  max-height: 100%;
 }
