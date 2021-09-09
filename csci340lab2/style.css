@@ -6,15 +6,28 @@
 .jumbotron h1 {
   text-align: center;
   color: white;
+  font-family: 'Anton', sans-serif;
+}
+
+.row {
+  padding: 10px;
 }
 
 h2 {
   text-align: center;
   margin: 20px;
   color: white;
+  font-size: 40px;
 }
 
 h3 {
+  color: white;
+  font-family: 'Bangers', cursive;
+  font-size: 30px;
+  padding: 50px;
+}
+
+h4 {
   color: white;
 }
 
@@ -53,6 +66,10 @@ h3 {
   transform: translate(-50%, -50%);
 }
 
+.col-sm-6 {
+  font-family: 'Teko', sans-serif;
+}
+
 .button {
   background-color: #1c87c9;
   border: none;
@@ -68,14 +85,26 @@ h3 {
 
 .image1 {
   position: relative;
-  width 100%;
+  right: 400px;
+}
+
+.image2 {
+  position: relative;
+  left: 50px;
 }
 
 #Joke1 {
   position: absolute;
   top: 200px;
-  right: 200px;
+  right: 100px;
   left: 0;
+  width: 100%;
+}
+
+#Joke2 {
+  position: absolute;
+  top: 200px;
+  left: 100px;
   width: 100%;
 }
 
