@@ -29,6 +29,7 @@ h3 {
 
 h4 {
   color: white;
+  font-size: 20px;
 }
 
 #Emoji1 {
@@ -59,13 +60,6 @@ h4 {
   text-align: center;
 }
 
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 .col-sm-6 {
   font-family: 'Teko', sans-serif;
 }
@@ -85,7 +79,7 @@ h4 {
 
 .image1 {
   position: relative;
-  right: 400px;
+  right: 350px;
 }
 
 .image2 {
@@ -93,18 +87,21 @@ h4 {
   left: 50px;
 }
 
+#Joke1, #Joke2 {
+  font-family: 'Klee One', cursive;
+}
+
 #Joke1 {
   position: absolute;
-  top: 200px;
-  right: 100px;
-  left: 0;
+  top: 275px;
+  left: 200px;
   width: 100%;
 }
 
 #Joke2 {
   position: absolute;
-  top: 200px;
-  left: 100px;
+  top: 275px;
+  left: 175px;
   width: 100%;
 }
 
