@@ -89,20 +89,37 @@ h4 {
 
 #Joke1, #Joke2 {
   font-family: 'Klee One', cursive;
+  font-size: 20px;
 }
 
 #Joke1 {
   position: absolute;
-  top: 275px;
+  top: 260px;
   left: 200px;
   width: 100%;
 }
 
 #Joke2 {
   position: absolute;
-  top: 275px;
+  top: 260px;
   left: 175px;
   width: 100%;
+}
+
+#L {
+  padding-right: 300px;
+  color: blue;
+}
+
+#R {
+  padding-left: 425px;
+  color: blue;
+}
+
+p {
+  font-size: 80px;
+  font-family: 'Anton', sans-serif;
+  color: orange;
 }
 
 body {
