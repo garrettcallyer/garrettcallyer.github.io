@@ -2,7 +2,7 @@ $(document).ready(function() {
   $('#jokeFact1').click(function() {
     $.ajax({
       dataType: "json",
-      url: "http://api.icndb.com/jokes/random.json",
+      url: "https://api.icndb.com/jokes/random.json",
       success: function(getJoke1) {
         console.log(getJoke1["value"]["joke"]);
           $('#Joke1').text(getJoke1["value"]["joke"]);
